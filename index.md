@@ -8,4 +8,4 @@ Have a fantastic 21st birthday. We wish you many deep conversations with Alexa. 
 
 -Ameya and Rohan
 
-P.S. In case you're wondering why on earth I put this message on Github, let's just say Amazon was not chill with a 800 character message :)
+P.S. In case you're wondering why on earth I put this message on Github, let's just say Amazon was not chill with a 800 character message, and in honor of your knowledge of the latest tech trends, this was most fitting :)
