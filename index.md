@@ -4,6 +4,8 @@ It's been a pleasure to get to know you and become close friends over the past t
 
 What sticks out across all these experiences is your independent-thinking and willingness to often take the road less traveled. From China to Germany, blockchain to self-driving cars, piano to Insta-photography, and many others, you are well-versed and have interests in a diverse array of things. Ultimately, life is really about the richness of experiences we have, so continue to experiment and hold onto your unique creativity and passions.
 
-Have a fantastic 21st birthday. Looking forward to celebrating soon and getting the three musketeers back in action.
+Have a fantastic 21st birthday. We wish you many deep conversations with Alexa. Looking forward to celebrating soon and getting the three musketeers back in action.
 
-P.S. In case you're wondering why on earth I put this message on Github, let's just say Amazon was not chill with a 800 character message.
+-Ameya and Rohan.
+
+P.S. In case you're wondering why on earth I put this message on Github, let's just say Amazon was not chill with a 800 character message :)
