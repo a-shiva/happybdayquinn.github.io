@@ -6,7 +6,4 @@ What sticks out across all these experiences is your independent-thinking and wi
 
 Have a fantastic 21st birthday. Looking forward to celebrating soon and getting the three musketeers back in action.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+P.S. In case you're wondering why on earth I put this message on Github, let's just say Amazon was not chill with a 800 character message.
