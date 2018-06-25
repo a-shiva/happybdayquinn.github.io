@@ -6,6 +6,6 @@ What sticks out across all these experiences is your independent-thinking and wi
 
 Have a fantastic 21st birthday. We wish you many deep conversations with Alexa. Looking forward to celebrating soon and getting the three musketeers back in action.
 
--Ameya and Rohan.
+-Ameya and Rohan
 
 P.S. In case you're wondering why on earth I put this message on Github, let's just say Amazon was not chill with a 800 character message :)
